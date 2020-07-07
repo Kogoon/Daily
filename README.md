@@ -1,5 +1,5 @@
-# TIL
-## Today I Learn
+
+# Today I Learn
 > [Integerous](https://github.com/Integerous/TIL) 님의 TIL영감을 받음.  
 > 오늘 배우고 알게 된, 공부한 내용을 기록하는 공간.  
 > 영문 폴더 생성으로 카테고리화 시켜서 기록 및 보관.  
