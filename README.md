@@ -14,7 +14,7 @@
 * contents
 
 ### BOJ (Algorithm)
- * [200710 백준문제풀이](https://github.com/Kogoon/TIL/blob/master/BOJ/200710.md)
+ * [200710 백준문제풀이 - collections, min, deque](https://github.com/Kogoon/TIL/blob/master/BOJ/200710.md)
    
 ### DJANGO
 
