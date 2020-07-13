@@ -29,7 +29,7 @@
 
 
 ### PYTHON
-
+ * [Dictionary](https://github.com/Kogoon/TIL/blob/master/python/dictionary.md)
 
 * * *
 ### ETC
