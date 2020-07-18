@@ -10,9 +10,6 @@
 1. [Github-Flavoured Markdown](https://guides.github.com/features/mastering-markdown/)으로 작성하고 파일 확장자는 `md`.  
 2. 짧고 간결하며 핵심적인 문장을 사용한다. 필요한 설명이 있으면 관련된 정보가 포함된 외부 링크를 사용 하자.
 * * *
-### AWS
-* contents
-
 ### BOJ (Algorithm)
  * [200710 백준문제풀이-collections, min, deque](https://github.com/Kogoon/TIL/blob/master/BOJ/200710.md)
 
