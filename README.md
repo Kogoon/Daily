@@ -30,7 +30,7 @@
 
 ### ETC
  * [PWA](/etc/PWA.md)
- * [2020-하반기-ICT인턴십-코딩테스트-후기(회고)](/etc/CodingTest.md)
+ * [2020-하반기-ICT인턴십-코딩테스트-후기(회고)](/etc/ICTCodingTest.md)
 <!--
 * * *
 ### ETC [:top:](#top)
