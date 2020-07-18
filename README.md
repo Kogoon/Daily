@@ -14,7 +14,7 @@
 * contents
 
 ### BOJ (Algorithm)
- * [200710 백준문제풀이 - collections, min, deque](https://github.com/Kogoon/TIL/blob/master/BOJ/200710.md)
+ * [200710 백준문제풀이-collections, min, deque](https://github.com/Kogoon/TIL/blob/master/BOJ/200710.md)
 
 ### DOCKER
 
@@ -30,7 +30,8 @@
 
 ### ETC
  * [PWA](/etc/PWA.md)
- * [2020-하반기-ICT인턴십-코딩테스트-후기(회고)](/etc/ICTCodingTest.md)
+ * [2020 하반기 ICT인턴십 코딩테스트 후기(회고)](/etc/ICTCodingTest.md)
+ * [Hugo를 이용해 github 블로그만들기](/etc/hugogithub.md)
 <!--
 * * *
 ### ETC [:top:](#top)
