@@ -1,5 +1,5 @@
 # Hugo를 이용해 Github 블로그 만들기  
-
+> [Document](https://gohugo.io/content-management/)
 
 #### Hugo 설치 
 
@@ -8,7 +8,7 @@
 > hugo new site <프로젝트 명>
 ~~~
 ##### 기본구조
- * archetypes/ : front matter 설정하는 곳 `default.md`가 있는데, 게시글 만들때마다 (**아래-글쓰기**) 서식 같은 것 설정하는 곳이라 보면 된다.   
+ * archetypes/ : front matter 설정하는 곳 `default.md`가 있는데, 게시글 만들때마다 (**아래-글쓰기**) 서식 같은 것 설정하는 곳이라 보면 된다.  [Document](https://gohugo.io/content-management/front-matter/)
  ~~~
   - title : 글의 제목을 설정한다. 
   - tags : 글의 태그를 설정할 수 있다.
