@@ -19,7 +19,7 @@ curl https://pyenv.run | bash
 인스톨러가 다해주기때문.. 
 
 #### pyenv 설치 (not installer) *(Ubuntu ver.)*
-> 환경설정을 잘못 건드렸나... 자꾸 ~/.pyenv로 설치가 안되고 ~/HOME/.pyenv에 설치가됨;; 환경변수 잘못된거없었는데;; 그래서 재설치
+> 환경설정을 잘못 건드렸나... 자꾸 ~/.pyenv로 설치가 안되고 ~/HOME/.pyenv에 설치가됨;; 환경변수 잘못된거없었는데;; 그래서 기존 설치방법대로 재설치
 ~~~
 git clone https://github.com/pyenv/pyenv.git ~/.pyenv  (git에서 직접 .pyenv 에 클론받고)
 (환경변수 설정)
