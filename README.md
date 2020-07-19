@@ -16,9 +16,6 @@
 ### DOCKER
 
 
-### FLASK
-
-
 ### GIT
  * [Git 사용법](https://github.com/Kogoon/TIL/blob/master/Git/git_usage.md)
 
