@@ -46,7 +46,8 @@ def test_sample():
     assert 1 + 1 == 3
 ~~~
 
-![wrong](./wrong_pytest.PNG)
+![wrong](./wrond_pytest.PNG)
+
 
 #### app_test.py 생성 (정상)  
 ~~~
@@ -55,8 +56,3 @@ def test_sample():
 ~~~
 
 ![clear](./clear_pytest.PNG)
-
-
-
- 
- 
