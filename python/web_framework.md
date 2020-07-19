@@ -1,9 +1,10 @@
 # 파이썬 웹 프레임워크 (Python Web Framework)
-
-> 써보기엔 Flask만 써봤지만 파이썬에는 Flask랑 Django만 있는 줄 알았다.. 
-
+  
+> 써보기엔 Flask만 써봤지만 파이썬에는 Flask랑 Django만 있는 줄 알았다..   
+> 어차피 당분간 계속 Python을 쓸 것 같으니 각 Web Framework의 정보를 알고 각 프로젝트에 적용하면 좋지않을까...   
+   
 ### 파이썬 웹 프레임워크 종류들 10가지 (List)
-
+  
  1.  Django
  2.  Flask
  3.  Tornado
@@ -14,14 +15,14 @@
  8.  Pyramid
  9.  Hug
  10. TurboGears
- 
+   
 ### 1. Django
-`Full-stack Framework`
-
-* 개요
- 가장 인기가 많고 널리 쓰이는 프레임워크이다. 
-
-* 특징
+`Full-stack Framework`  
+  
+* 개요  
+ 가장 인기가 많고 널리 쓰이는 프레임워크이다.   
+  
+* 특징  
   1) URL Routing
   2) Template engine
   3) Data schema migrations
@@ -29,8 +30,8 @@
   5) ORM or object-relational mapper
 
 ### 2. Flask
-`Micro Framework`
-
+`Micro Framework`  
+  
 * 특징
   1) Jinja2 templating
   2) Fast debugger
@@ -42,8 +43,8 @@
   8) RESTful request dispatching
 
 ### 3. Tornado
-`Asynchronous Framework`
-
+`Asynchronous Framework`  
+  
 * 특징
   1) Support for user authentication
   2) In-built  HTTP server
@@ -54,8 +55,8 @@
 
 
 ### 4. Web2Py
-`Micro Framework`
-
+`Micro Framework`  
+  
 * 특징
   1) Hassle-free database connectivity
   2) Compatible with cross-platform
@@ -67,8 +68,8 @@
   
 
 ### 5. Bottle
-`Micro Framework`
-
+`Micro Framework`  
+  
 * 특징
   1) Comes with an HTTP server
   2) Database plugins support
@@ -80,8 +81,8 @@
 
 
 ### 6. CherryPy
-`Micro Framework`
-
+`Micro Framework`  
+  
 * 특징
   1) A powerful configuration system
   2) HTTP/1.1-compliant WSGI thread-pooled webserver
@@ -91,8 +92,8 @@
   
 
 ### 7. Falcon
-`Micro Framework`
-
+`Micro Framework`  
+  
 * 특징
   1) Full code coverage with an advanced test suite
   2) Hassle-free access through response and request classes
@@ -103,8 +104,8 @@
 
 
 ### 8. Pyramid
-`Full-stack Framework`
-
+`Full-stack Framework`  
+   
 * 특징
   1) Renderers
   2) Single-file application
@@ -115,8 +116,8 @@
 
 
 ### 9. Hug
-`Micro Framework`
-
+`Micro Framework`  
+  
 * 특징
   1) Annotation-powered validation
   2) Serves as a python livrary
@@ -125,8 +126,8 @@
 
 
 ### 10. TurboGears
-`Full-stack Framework`
-
+`Full-stack Framework`  
+  
 * 특징
   1) Multiple database support
   2) Pylons as a web server
@@ -137,8 +138,8 @@
 
 
 * * *
-[참고한 글]
-
-[Top 10 Python Web Framework - Hackernoon](https://hackernoon.com/top-10-python-web-frameworks-2020-edition-r1h3u84)
-[Top Python Web Frameworks 2020 - ncube](https://ncube.com/blog/top-python-web-frameworks-2020)
-[Top 13 Python Web Frameworks to Learn in 2020](https://steelkiwi.com/blog/top-10-python-web-frameworks-to-learn/)
+[참고한 글]  
+  
+[Top 10 Python Web Framework - Hackernoon](https://hackernoon.com/top-10-python-web-frameworks-2020-edition-r1h3u84)  
+[Top Python Web Frameworks 2020 - ncube](https://ncube.com/blog/top-python-web-frameworks-2020)  
+[Top 13 Python Web Frameworks to Learn in 2020](https://steelkiwi.com/blog/top-10-python-web-frameworks-to-learn/)  
