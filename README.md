@@ -26,6 +26,7 @@
  * [Dictionary](https://github.com/Kogoon/TIL/blob/master/python/dictionary.md)
 
 ### ETC
+ * [라즈베리파이3 무선랜 설정](/etc/raspberry_wifi.md)
  * [PWA](/etc/PWA.md)
  * [2020 하반기 ICT인턴십 코딩테스트 후기(회고)](/etc/ICTCodingTest.md)
  * [Hugo를 이용해 github 블로그만들기](/etc/hugogithub.md)
