@@ -24,6 +24,7 @@
 
 ### PYTHON
  * [Dictionary](https://github.com/Kogoon/TIL/blob/master/python/dictionary.md)
+ * [가상환경 pyenv 설치](/python/pyenv.md)
 
 ### ETC
  * [라즈베리파이3 무선랜 설정](/etc/raspberry_wifi.md)
