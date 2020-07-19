@@ -14,7 +14,7 @@
  * [200710 백준문제풀이-collections, min, deque](https://github.com/Kogoon/TIL/blob/master/BOJ/200710.md)
 
 ### DOCKER
- * [Docker 명령어](/docker/command.md)
+ * [Docker 명령어](/docker/basic.md)
 
 
 ### GIT
