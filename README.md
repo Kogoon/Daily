@@ -21,6 +21,7 @@
  * [Git 사용법](https://github.com/Kogoon/TIL/blob/master/Git/git_usage.md)
 
 ### PYTHON
+ * [(펌)가정설정문_assert](https://wikidocs.net/21050)
  * [Dictionary](https://github.com/Kogoon/TIL/blob/master/python/dictionary.md)
  * [가상환경 pyenv 설치](/python/pyenv.md)
  * [pytest 설치 및 실습](/python/pytest.md)
