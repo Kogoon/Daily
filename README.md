@@ -12,6 +12,9 @@
 * * *
 ### BOJ (Algorithm)
  * [200710 백준문제풀이-collections, min, deque](https://github.com/Kogoon/TIL/blob/master/BOJ/200710.md)
+ 
+### DATABASE
+ * [한눈에 살펴보는 PostgreSQL(네이버D2)](https://d2.naver.com/helloworld/227936)
 
 ### DOCKER
  * [Docker 명령어](/docker/basic.md)
@@ -31,6 +34,7 @@
  * [PWA](/etc/PWA.md)
  * [2020 하반기 ICT인턴십 코딩테스트 후기(회고)](/etc/ICTCodingTest.md)
  * [Hugo를 이용해 github 블로그만들기](/etc/hugogithub.md)
+ * [개발자들의 국내, 국외 개발 블로그 모음(펌)](https://github.com/innovationacademy-kr/software-resources/blob/master/blogs/personal_blogs.md)
 <!--
 * * *
 ### ETC [:top:](#top)
