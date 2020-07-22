@@ -17,7 +17,7 @@
  * [한눈에 살펴보는 PostgreSQL(네이버D2)](https://d2.naver.com/helloworld/227936)
 
 ### DOCKER
- * [Docker 명령어](/docker/basic.md)
+ * 
 
 
 ### GIT
