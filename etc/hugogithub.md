@@ -1,6 +1,10 @@
 # Hugo를 이용해 Github 블로그 만들기  
 > [Document](https://gohugo.io/content-management/)
 
+### Hugo
+#### Hugo 란?
+hugo란 웹사이트를 쉽게 만들어주는 Go언어 기반 Static site generator이다. 
+
 #### Hugo 설치 
 
 #### hugo 프로젝트 시작
@@ -36,6 +40,9 @@
 `/config.toml` 파일에 기본적인 내용을 설정하면 된다.   
 잘 모르겠으면, 해당 테마 github repository의 README.md를 참고하거나, 다운로드 받은 테마 폴더 안에 /theme/<테마명>/config.toml 보고 설정하면된다.  
 
+#### Git 연동 
+
+
 ##### Taxonomies
 Go Template에서는 기본적으로 `Category`와 `Tag`, 두 Taxonomies를 제공한다. 
 `<baseURL>/categories` 와 `<baseURL>/tags`의 경로에서 확인할 수 있다. 
@@ -59,12 +66,23 @@ tag = "tags"
 ~~~
 브라우저 창에서 'localhost:1313'으로 지금까지 만든 블로그를 미리 확인해 볼 수 있다. 
 
-#### 빌드
+#### 배포준비
+
+배포를 위해서는 github에 2개의 repository를 생성한다. 
+하나는 blog project (개인 마음) , 하나는 <자기계정>.github.io 로 만든다. 
+
 ~~~
-> 
+git submodule add -b master <<자기계정.github.io의 깃주소> public
 ~~~
 
+#### 빌드
+~~~
+> hugo -t <theme 명>
+~~~
+위 명령어로 빌드 진행시 현재 Directory 에 /public/이 수정된 것을 확인할 수 있다. 
+
 #### 배포
+
 
 #### 오류
 
