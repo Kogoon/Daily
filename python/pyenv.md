@@ -152,3 +152,8 @@ source venv/bin/activate
 #which python 
 ...(경로)/project_name/venv/bin/python
 ~~~
+
+##### 가상환경종료
+~~~
+decativate
+~~~
