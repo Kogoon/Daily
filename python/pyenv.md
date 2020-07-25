@@ -120,11 +120,6 @@ pip install --upgrade pip
 pip install virtualenv
 ~~~
 
-##### 가상환경 만들기 
-~~~
-pip install virtualenv
-~~~
-
 ##### 프로젝트 생성
 ~~~
 mkdir project_name
