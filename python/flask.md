@@ -47,3 +47,15 @@ if __name__ == '__main__':
 ~~~
 
 
+### ERROR
+아래와 같은 에러 발생시
+~~~
+WARNING: This is a development server. Do not use it in a production deployment.
+~~~
+
+FLASK_ENV 환경변수를 추가해준다.
+~~~
+export FLASK_ENV=development
+~~~
+
+
