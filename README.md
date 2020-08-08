@@ -32,6 +32,7 @@
  * [pytest 설치 및 실습](/python/pytest.md)
 
 ### ETC
+ * [오픈소스](/etc/opensource.md)
  * [라즈베리파이3 무선랜 설정](/etc/raspberry_wifi.md)
  * [PWA](/etc/PWA.md)
  * [2020 하반기 ICT인턴십 코딩테스트 후기(회고)](/etc/ICTCodingTest.md)
