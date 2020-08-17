@@ -69,3 +69,35 @@ print(target_img)
 * `find` 메소드에 `attrs`매개변수를 이용해서 {'속성이름':'속성 값'}의 딕셔너리 구조로 고유의 속성값을 지정한다.  
 * 지정한 속성 값을 기준으로 처음 나오는 태그를 찾아 출력한다.  
 
+
+### SavingImageCode
+~~~
+import requests
+from bs4 import BeautifulSoup
+
+url  = "https://en.wikipedia.org/wiki/Seoul_Metropolitan_Subway"
+resp = requests.get(url)
+html_src = resp.text
+
+soup = BeautifulSoup(html_src, 'html.parser')
+
+target_img = soup.find(name='img', attrs={'alt':'Seoul-Metro-2004-20070722.jpg'})
+print("HTML 요소 : ", target_img)
+print("\n")
+
+target_img_src = target_img.get('src')
+print("이미지 파일 경로 : ", target_img_src)
+print("\n")
+
+target_img_resp = requests.get('http:' + target_img_src)
+out_file_path = "./output/download_image.jpg"
+
+with open(out_file_path, 'wb') as out_file:
+    out_file.write(target_img_resp.content)
+    print("이미지 파일을 저장하였습니다.")
+~~~
+* 앞 내용은 위와 동일하고.   
+* target_img_src(이미지 파일 경로)에 target_img에 대한 src를 GET 요청해서 저장한다.  
+* out_file_path로, 현재 디렉토리 아래 output/ 에 넣어줄 경로 및 파일 이름을 설정해주었다.  
+* target_img_src에 http:를 앞에 붙여 target_img_resp 에 저장한 후 이 target_img_resp에 content에는 이미지 파일이 바이너리 형태로 저장되어 있다.  
+* write명령으로 이미지 파일을 외부 파일로 저장한다. 
