@@ -45,3 +45,27 @@ print('title 태그 문자열 : ', soup.title.string)
 * soup.title.string : 태그를 제외하고 태그안에 존재하는 텍스트만을 출력한다.  
 
 
+### Image Code
+~~~
+import requests
+from bs4 import BeautifulSoup
+
+url  = "https://en.wikipedia.org/wiki/Seoul_Metropolitan_Subway"
+resp = requests.get(url)
+html_src = resp.text
+
+soup = BeautifulSoup(html_src, 'html.parser')
+
+first_img = soup.find(name='img')
+print(first_img)
+print("\n")
+
+target_img = soup.find(name='img', attrs={'alt':'Seoul-Metro-2004-20070722.jpg'})
+print(target_img)
+~~~
+
+* `find` 메소드를 이용해서 찾고자 하는 태그의 이름 `img`를 name 매개변수로 지정한다.  
+* 가장 처음으로 나오는 img태그의 내용을 출력한다. 
+* `find` 메소드에 `attrs`매개변수를 이용해서 {'속성이름':'속성 값'}의 딕셔너리 구조로 고유의 속성값을 지정한다.  
+* 지정한 속성 값을 기준으로 처음 나오는 태그를 찾아 출력한다.  
+
