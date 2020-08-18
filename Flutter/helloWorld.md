@@ -1,0 +1,26 @@
+# Flutter 공부 시작 
+
+### HelloWorld Code
+~~~
+void main() {
+  runApp(MyApp());
+}
+
+class MyApp extends StatelessWidget {
+  // This widget is the root of your application.
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      title: "Welcome to Flutter",
+      home: Scaffold(
+        appBar: AppBar(
+          title: Text('Welcome to Flutter'),
+        ),
+        body: Center(
+          child: Text('Hello World'),
+        )
+      ),
+    );
+  }
+}
+~~~
