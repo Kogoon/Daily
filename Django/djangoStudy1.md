@@ -67,8 +67,8 @@ INSTALLED_APPS = [
 INSTALLED_APPS에 `app`의 클래스를 설정해준다.  
 
 #### 2
-tesplates에는 html의 파일들이 들어간다.  
-만든 `app` directory 내의 `template`라는 폴더를 생성해주고  
+`templates`에는 html의 파일들이 들어간다.  
+만든 `app` directory 내의 `templates`라는 폴더를 생성해주고  
 그 안에 index.html 생성한다.  
 ~~~
 <h1>Hello World!</h1>
