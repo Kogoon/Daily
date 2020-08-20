@@ -17,3 +17,6 @@
 
 *** 
 
+[Github action 사용법](https://zzsza.github.io/development/2020/06/06/github-action/)  
+[GC build를 이용한 CI/CD](https://zzsza.github.io/gcp/2020/05/09/google-cloud-build/)  
+[폐쇄망 환경의 배포 시스템 개발기](https://blog.banksalad.com/tech/how-we-have-built-alice/)
