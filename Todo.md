@@ -13,3 +13,5 @@
 </details>
 
 *** 
+
+[참고)데이타사이언스-github](https://github.com/ohahohah/data-engineer-intermediate-training)
