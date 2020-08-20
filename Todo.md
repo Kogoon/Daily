@@ -12,6 +12,8 @@
   <img src=https://roadmap.sh/roadmaps/devops.png>
 </details>
 
+  
+[참고)데이타사이언스-github](https://github.com/ohahohah/data-engineer-intermediate-training)
+
 *** 
 
-[참고)데이타사이언스-github](https://github.com/ohahohah/data-engineer-intermediate-training)
