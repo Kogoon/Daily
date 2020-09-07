@@ -19,4 +19,14 @@ systemctl restart network
 service network restart
 ~~~
 
-### 
+### network 설정
+~~~
+vi /etc/sysconfig/network-scripts/ifcfg-ens33
+~~~
+(ens33과 같은 이더넷 이름은 다를 수 있다.)   
+
+ens33과 같은 이더넷 명을 변경을 하려면, 파일내의 `NAME`부분 변경 후, 파일명도 변경한 이더넷 이름으로 변경해주어야 한다.   
+(ifcfg-xxxx)  
+
+#### centOS 8
+
