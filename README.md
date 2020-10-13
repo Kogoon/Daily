@@ -12,19 +12,12 @@
 * * *
 
 **앞으로 gitbook을 이용해서 기록 [링크](kogoon.gitbook.com)**
-
-<!---
-### Todo
- *  
  
 ### BOJ (Algorithm)
  * [200710 백준문제풀이-collections, min, deque](https://github.com/Kogoon/TIL/blob/master/BOJ/200710.md)
  
 ### DATABASE
  * [한눈에 살펴보는 PostgreSQL(네이버D2)](https://d2.naver.com/helloworld/227936)
-
-### DOCKER
- * 
 
 ### GIT
  * [Git 사용법](https://github.com/Kogoon/TIL/blob/master/Git/git_usage.md)
@@ -42,8 +35,9 @@
  * [2020 하반기 ICT인턴십 코딩테스트 후기(회고)](/etc/ICTCodingTest.md)
  * [Hugo를 이용해 github 블로그만들기](/etc/hugogithub.md)
  * [개발자들의 국내, 국외 개발 블로그 모음(펌)](https://github.com/innovationacademy-kr/software-resources/blob/master/blogs/personal_blogs.md)
+ * [gRPC 기본 개념 및 사용 예시](https://blog.naver.com/PostView.nhn?blogId=alice_k106&logNo=221617347519&parentCategoryNo=&categoryNo=&viewDate=&isShowPopularPosts=false&from=postList)
 
-* * *
+<!--
 ### ETC [:top:](#top)
 -->
 
